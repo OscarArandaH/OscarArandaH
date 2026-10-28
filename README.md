@@ -80,8 +80,7 @@ Me gusta entender un problema, encontrar una solución simple y convertirla en s
 
 ## Actividad en GitHub
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OscarArandaH&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub de OscarArandaH" />
+<p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=OscarArandaH&theme=tokyonight&hide_border=true" alt="Racha de actividad de OscarArandaH" />
 </p>
 
