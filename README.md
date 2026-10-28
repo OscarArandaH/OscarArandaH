@@ -1,32 +1,63 @@
-# ¡Hola! Soy Oscar Aranda 👋
+![Banner de Oscar Aranda](profile-banner.svg)
 
-Desarrollador de software enfocado en crear soluciones web para procesos académicos y administrativos. He colaborado en sistemas institucionales de la Universidad de Santiago de Chile, trabajando tanto en backend como en frontend.
+# ¡Hola, soy Oscar! 👋
 
-- 🧩 Experiencia en diseño e implementación de aplicaciones web y servicios REST.
-- 🏛️ Colaboración en plataformas de gestión académica, admisión, becas y procesos universitarios.
-- 🔎 También he aportado a herramientas de procesamiento y revisión de formularios mediante OCR.
-- 🌱 Me interesa construir software útil, mantenible y centrado en las necesidades de sus usuarios.
+Me gusta entender un problema, encontrar una solución simple y convertirla en software útil. He colaborado en plataformas web para procesos universitarios, desde servicios backend hasta interfaces para quienes las usan.
 
-## Tecnologías
+## En qué trabajo
 
-Go · TypeScript · JavaScript · Java · Python · Vue.js · React · Node.js · PL/SQL
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ SAI</h3>
+      <p>Plataformas de gestión y servicios institucionales.</p>
+      <a href="https://github.com/DEIUsach/SAI-gestion-frontend">Frontend</a> · <a href="https://github.com/DEIUsach/SAI-gestion-backend">Backend</a><br>
+      <a href="https://github.com/DEIUsach/SAI-index-frontend">Portal</a> · <a href="https://github.com/DEIUsach/SAI-auth-backend">Autenticación</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 FI-Postulación</h3>
+      <p>Herramientas para apoyar procesos de postulación.</p>
+      <a href="https://github.com/DEIUsach/FI-Postulacion-frontend-dei">Frontend</a> · <a href="https://github.com/DEIUsach/FI-Postulacion-backend-dei">Backend</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ SGP</h3>
+      <p>Trabajo en la plataforma y sus servicios.</p>
+      <a href="https://github.com/DEIUsach/SGP-Frontend">Frontend</a> · <a href="https://github.com/DEIUsach/SGP-Backend">Backend</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 GDA</h3>
+      <p>Colaboración en el sistema de admisión.</p>
+      <a href="https://github.com/DEIUsach/gda-admision">Ver repositorio</a>
+    </td>
+  </tr>
+</table>
 
-## Proyectos y colaboraciones
+## Tecnologías que uso
 
-### Sistemas universitarios
+<p>
+  <strong>Backend</strong><br>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+<p>
+  <strong>Frontend y datos</strong><br>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-00758F?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
+</p>
 
-He contribuido en distintas plataformas de la DEIUsach, incluyendo sistemas de gestión, autenticación, admisión, becas y procesos académicos. La lista de repositorios aparece abajo.
+## También he colaborado en
 
-### SIAC Usach
-
-Colaboré en [regacad/siacusach2](https://github.com/regacad/siacusach2) mediante cambios y pull requests relacionados con recuperación de contraseñas, validaciones de registro y correcciones en controladores, DAO y vistas.
-
-### Procesamiento de formularios
-
-Colaboración en una herramienta de extracción y revisión de formularios con PaddleOCR, incluyendo limpieza de resultados, validaciones y ajustes de procesamiento.
+- [SIAC Usach](https://github.com/regacad/siacusach2), con cambios y pull requests para recuperación de contraseñas, validaciones de registro y correcciones en controladores, DAO y vistas.
+- Una herramienta de extracción y revisión de formularios con PaddleOCR, incluyendo limpieza de resultados, validaciones y ajustes de procesamiento.
 
 <details>
-<summary>Repositorios DEIUsach en los que he colaborado</summary>
+<summary>Ver los repositorios DEIUsach en los que he colaborado</summary>
 
 - [SAI-gestion-frontend](https://github.com/DEIUsach/SAI-gestion-frontend)
 - [SAI-gestion-backend](https://github.com/DEIUsach/SAI-gestion-backend)
@@ -56,4 +87,4 @@ Colaboración en una herramienta de extracción y revisión de formularios con P
 
 ---
 
-📫 Puedes contactarme a través de mi [perfil de GitHub](https://github.com/OscarArandaH).
+📫 Puedes encontrarme en [GitHub](https://github.com/OscarArandaH).
