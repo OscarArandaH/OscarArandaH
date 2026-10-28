@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Banner verde oscuro con líneas topográficas">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07130f"/><stop offset=".55" stop-color="#123c2b"/><stop offset="1" stop-color="#071a13"/></linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#55d69e" stop-opacity=".05"/><stop offset="1" stop-color="#55d69e" stop-opacity=".35"/></linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="24" fill="url(#bg)"/>
+  <circle cx="1030" cy="70" r="180" fill="url(#glow)"/>
+  <g fill="none" stroke="#8be0b5" stroke-opacity=".34" stroke-width="1.5">
+    <path d="M610 300C650 180 745 155 796 75s136-100 222-63 130 104 247 42"/>
+    <path d="M575 300c43-139 140-161 195-241s142-98 232-57 126 106 266 35"/>
+    <path d="M540 300c45-157 144-177 207-257s148-96 244-50 126 109 277 28"/>
+    <path d="M710 300c40-91 105-120 148-188s123-104 201-68 105 91 206 62"/>
+    <path d="M760 300c35-72 82-103 120-166s110-99 173-71 89 75 171 57"/>
+    <path d="M815 300c28-57 60-83 95-138s95-87 150-65 76 58 143 46"/>
+  </g>
+  <g fill="#8be0b5" fill-opacity=".8"><circle cx="1025" cy="56" r="3"/><circle cx="1090" cy="194" r="2"/><circle cx="895" cy="132" r="2"/><circle cx="1160" cy="105" r="3"/></g>
+  <path d="M56 218h74" stroke="#63d49e" stroke-width="4" stroke-linecap="round"/>
+</svg>
