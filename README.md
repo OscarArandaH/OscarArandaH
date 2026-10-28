@@ -80,8 +80,19 @@ Me gusta entender un problema, encontrar una solución simple y convertirla en s
 
 ## Actividad en GitHub
 
+### Opción 1 · tarjeta de actividad
+
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=OscarArandaH&theme=tokyonight&hide_border=true" alt="Racha de actividad de OscarArandaH" />
+  <img height="165" src="https://streak-stats.demolab.com?user=OscarArandaH&theme=tokyonight&hide_border=true" alt="Resumen de contribuciones y racha de OscarArandaH" />
+</p>
+
+### Opción 2 · serpiente de contribuciones
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OscarArandaH/OscarArandaH/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Animación de serpiente sobre la cuadrícula de contribuciones" src="https://raw.githubusercontent.com/OscarArandaH/OscarArandaH/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
