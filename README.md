@@ -80,13 +80,13 @@ Me gusta entender un problema, encontrar una solución simple y convertirla en s
 
 ## Actividad en GitHub
 
-### Opción 1 · tarjeta de actividad
+### Mi racha de contribuciones
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=OscarArandaH&theme=tokyonight&hide_border=true" alt="Resumen de contribuciones y racha de OscarArandaH" />
 </p>
 
-### Opción 2 · serpiente de contribuciones
+### Mi mapa de contribuciones
 
 <p align="center">
   <picture>
